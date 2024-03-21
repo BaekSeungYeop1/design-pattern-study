@@ -1,7 +1,9 @@
 package singleton;
 
+import java.io.Serializable;
+
 //   static inner 클래스를 사용하는 방법
-public class Singleton5 {
+public class Singleton5 implements Serializable {
 
     private Singleton5(){}
 
