@@ -1,4 +1,4 @@
-package factory_method.before;
+package creational_patterns.factory_method.before;
 
 public class Client {
 

@@ -1,4 +1,4 @@
-package singleton;
+package creational_patterns.singleton;
 
 // 이른 초기화(eager initialization)를 사용하는 방법
 public class Singleton3 {

@@ -1,4 +1,4 @@
-package singleton;
+package creational_patterns.singleton;
 
 // private 생성자에 static 메소드
 public class Singleton1 {

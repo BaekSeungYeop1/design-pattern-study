@@ -1,4 +1,4 @@
-package singleton;
+package creational_patterns.singleton;
 
 // 동기화(synchronized)를 사용해 멀티쓰레드 환경에 안전하게 만드는 방법
 public class Singleton2 {
