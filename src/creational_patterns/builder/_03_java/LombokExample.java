@@ -1,6 +1,6 @@
 package creational_patterns.builder._03_java;
 
-import lombok.*;
+import lombok.Builder;
 
 @Builder
 public class LombokExample {
